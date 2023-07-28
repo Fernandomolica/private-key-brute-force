@@ -1,0 +1,6 @@
+node ~/bitcrack/searchs/paral-search/index.js
+node ~/bitcrack/searchs/random-search-full/index.js 
+node ~/bitcrack/searchs/random-search-4-4/index.js 
+node ~/bitcrack/searchs/random-search-3-4/index.js
+node ~/bitcrack/searchs/random-search-2-4/index.js
+node ~/bitcrack/searchs/random-search-1-4/index.js
